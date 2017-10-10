@@ -5,7 +5,7 @@
 -------------------------------------------------------------------------   
 
 This is a LaTeX template for Master's thesis or PHD thesis, derived from official template of Concordia University, Montreal, Canada.   
-<iframe src="https://drive.google.com/file/d/0B9CyQOddjTIrdXZiMzMtMEFZYzA/preview" width="640" height="480"></iframe>   
+[embed]https://drive.google.com/file/d/0B9CyQOddjTIrdXZiMzMtMEFZYzA/preview[/embed]   
 
 Steps to get started:   
 - Clone the repo ( `git clone https://github.com/lalet/concordia-thesis-template.git`)   
