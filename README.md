@@ -5,10 +5,10 @@
 -------------------------------------------------------------------------   
 
 This is a LaTeX template for Master's thesis or PHD thesis, derived from official template of Concordia University, Montreal, Canada.   
-[embed]https://drive.google.com/file/d/0B9CyQOddjTIrdXZiMzMtMEFZYzA/preview[/embed]   
+   
 
 Steps to get started:   
-- Clone the repo ( `git clone https://github.com/lalet/concordia-thesis-template.git`)   
+- Clone the repo ( `git clone git@github.com:big-data-lab-team/concordia-master-thesis-template.git`)   
 - Make structural changes in `cuthesis_masters.tex` file.   
 - Define your constants such as thesis author, department, etc in `constants.tex` file.   
 - If you want to add new packages or define new styles, change them in `config.tex`.   
